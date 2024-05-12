@@ -1,10 +1,9 @@
-import "./App.css";
-import KeyboardEvent from "./components/KeyboardEvent";
+import Form from "./components/Form";
 
 function App() {
   return (
     <>
-      <KeyboardEvent />
+      <Form />
     </>
   );
 }
