@@ -8,3 +8,6 @@ npm run dev
 # Sass
 
 npm install -D sass
+mkdir styles
+cd styles
+mkdir abstracts base components
